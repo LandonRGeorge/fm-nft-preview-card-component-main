@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/LandonRGeorge/fm-nft-preview-card-component-main/settings/pages)
+- [Solution](https://github.com/LandonRGeorge/fm-nft-preview-card-component-main/)
 - [Live Site](https://landonrgeorge.github.io/fm-nft-preview-card-component-main/)
 
 ## My process
